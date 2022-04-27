@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:leonardo",
+    "sketch": "examples\\Keyboard\\AlternateLanguageLayout\\AlternateLanguageLayout.ino",
+    "port": "COM11"
+}
